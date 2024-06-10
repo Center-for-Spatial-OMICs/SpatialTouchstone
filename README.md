@@ -1,1 +1,4 @@
 # SpatialTouchstone
+
+## Figure 4
+
