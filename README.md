@@ -12,10 +12,31 @@ Additionally, our  [`SpatialQC Software`](https://github.com/Center-for-Spatial-
 
 Technical Metrics can be generated from our R package [`SpatialQC`](https:/om/Center-for-Spatial-OMICs/SpatialQC)
 
-[Code to Figure 1]()
+The Package can be downloaded from [R package](https://github.com/Center-for-Spatial-OMICs/SpatialQC) 
+
+[Code to Figure 1](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure1/AnalysisMetrics_TouchPublic.R)
+
+## Figure 2
+
+A. PCA plot grouped by Platform between CosMx and Xenium comparing Tissue Types and Origin (ST and PUB)
+
+B. Boxplot which compares number of cells between different tissue types. 
+
+C. Boxplot of compared metrics between ST and PUB.
+
+D. PCA plot comparing origin and platform among breast cancer datasets.
+
+[Code to Figure 2](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure2/ReproducBreastCancer.R)
+
+## Figure 3
+
+
+
+[Code to Figure 3]()
 
 ## Figure 4
 
 Protein Prostate Analysis
 
 [Code to Figure 4](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure4/TouchstoneProteinProstate.ipynb)
+
