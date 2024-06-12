@@ -18,6 +18,10 @@ The Package can be downloaded from [R package](https://github.com/Center-for-Spa
 
 ## Figure 2
 
+[Code to Figure 2](https://github.com/jpark-lab/Touchstone)
+
+## Figure 3
+
 A. PCA plot grouped by Platform between CosMx and Xenium comparing Tissue Types and Origin (ST and PUB)
 
 B. Boxplot which compares number of cells between different tissue types. 
@@ -26,17 +30,18 @@ C. Boxplot of compared metrics between ST and PUB.
 
 D. PCA plot comparing origin and platform among breast cancer datasets.
 
-[Code to Figure 2](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure2/ReproducBreastCancer.R)
-
-## Figure 3
+[Code to Figure 3] (https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure3/ReproducBreastCancer.R)3
 
 
+## Figure 4 
 
-[Code to Figure 3]()
+PrCa reproducibility
 
-## Figure 4
+[Code to Figure 4](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure5/Maxfuse-CP-XR.py)
 
-Protein Prostate Analysis
+## Figure 5
 
-[Code to Figure 4](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure4/TouchstoneProteinProstate.ipynb)
+Protein Prostate Analysis and Leiden Clusters
+
+[Code to Figure 5](https://github.com/Center-for-Spatial-OMICs/SpatialTouchstone/blob/main/Figures/Figure5/PR_CP_AllSamples.ipynb)
 
